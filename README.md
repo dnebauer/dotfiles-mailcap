@@ -1,4 +1,3 @@
-vcsh-mailcap
-============
+# dotfiles-mailcap
 
-Personal mailcap configuration in a vcsh repository.
+Personal mailcap configuration.
